@@ -29,8 +29,11 @@ html {
 
   .responsive_padding {
 
-    margin-bottom: 70%;
+    margin-bottom: 60%;
   }
+
+
+
 
 
 /*change padding on single-project-3
@@ -41,10 +44,7 @@ html {
   margin-bottom: 10%;
 }
 
-.responsive_padding {
-  margin-top: 10%;
-  margin-bottom: 70%;
-}
+
 
 
 
