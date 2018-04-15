@@ -404,6 +404,11 @@ img.btn-pill {
   line-height: 0;
 }
 
+.space-150 {
+  margin: 150px 0;
+  line-height: 0;
+}
+
 .space-300 {
   margin: 200px 0 !important;
   line-height: 0;
