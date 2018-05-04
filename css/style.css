@@ -1913,6 +1913,12 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   padding: 80px 0;
 }
 
+.banner-content.single-pagejiffy {
+  background: url("../images/car.jpg") no-repeat;
+    background-size: cover;
+  padding: 80px 0;
+}
+
 .banner-content.single-page5 {
   background: url("../images/disney_mickey.jpg") no-repeat;
     background-size: cover;
@@ -2545,7 +2551,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 .about-img {
   position: absolute;
-  background: url(../images/about-img.jpg) scroll center no-repeat;
+  background: url(../images/Bolivia.jpg) scroll center no-repeat;
   background-size: cover;
   height: 100%;
 }
