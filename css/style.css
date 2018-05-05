@@ -2551,7 +2551,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 .about-img {
   position: absolute;
-  background: url(../images/Bolivia.jpg) scroll center no-repeat;
+  background: url(../images/bolivia.jpg) scroll center no-repeat;
   background-size: cover;
   height: 100%;
 }
