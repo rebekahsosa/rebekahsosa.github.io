@@ -2149,6 +2149,14 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   background: #c39d6d;
 }
 
+.project .img-bg-color.primary2 {
+  background: #c39d6d;
+}
+
+.project .img-bg-color.primary3 {
+  background: #c39d6d;
+}
+
 .project .img-bg-color.default {
   background: #333333;
 }
