@@ -362,6 +362,10 @@ img.btn-pill {
   margin-top: 40px !important;
 }
 
+.space-top-3x {
+  margin-top: 60px !important;
+}
+
 .space-bottom {
   margin-bottom: 20px !important;
 }
@@ -2146,15 +2150,15 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 }
 
 .project .img-bg-color.primary {
-  background: #c39d6d;
+  background: #cfaef9;
 }
 
 .project .img-bg-color.primary2 {
-  background: #c39d6d;
+  background: #964343;
 }
 
 .project .img-bg-color.primary3 {
-  background: #c39d6d;
+  background: #e1e1e1;
 }
 
 .project .img-bg-color.default {
