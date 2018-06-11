@@ -1929,6 +1929,12 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   padding: 80px 0;
 }
 
+.banner-content.single-pagehead {
+  background: url("../images/headspace_banner.png") no-repeat;
+    background-size: cover;
+  padding: 80px 0;
+}
+
 .banner-content.single-page5 {
   background: url("../images/disney_mickey.jpg") no-repeat;
     background-size: cover;
