@@ -1923,6 +1923,12 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
   padding: 80px 0;
 }
 
+.banner-content.single-pagebello {
+  background: url("../images/oranges.jpg") no-repeat;
+    background-size: cover;
+  padding: 80px 0;
+}
+
 .banner-content.single-pagejiffy {
   background: url("../images/car.jpg") no-repeat;
     background-size: cover;
